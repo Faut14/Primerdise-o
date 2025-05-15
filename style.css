@@ -1,0 +1,275 @@
+</style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1><i class="fas fa-trophy"></i> Balón de Oro</h1>
+            <p class="subtitle">Los últimos 15 ganadores del premio más prestigioso del fútbol</p>
+        </div>
+    </header>
+    
+    <main class="container">
+        <section class="video-section">
+            <h2 class="section-title">Momento Histórico</h2>
+            <div class="video-container">
+               <h2>Video de Supervivencia</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/529rEFpJ3Es" frameborder="0" allowfullscreen></iframe>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/529rEFpJ3Es" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
+            </div>
+            <p class="video-caption">Entrega del Balón de Oro 2023</p>
+        </section>
+        
+        <section class="winners-section">
+            <h2 class="section-title">Ganadores Recientes</h2>
+            <div class="winners-grid">
+                <!-- Messi 2023 -->
+                <div class="winner-card">
+                    <div class="card-inner">
+                        <div class="card-front">
+                            <img src="https://cdn.forbes.com.mx/2023/11/Lionel-Messi-balon-de-oro.webp" alt="Lionel Messi 2023" class="winner-image">
+                            <div class="winner-info">
+                                <h3 class="winner-name">Lionel Messi</h3>
+                                <span class="winner-year">2023</span>
+                                <div class="winner-stats">
+                                    <p><i class="fas fa-flag"></i> Argentina / Inter Miami</p>
+                                    <p><i class="fas fa-futbol"></i> 8º Balón de Oro</p>
+                                    <p><i class="fas fa-star"></i> Copa del Mundo 2022</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card-back">
+                            <h4 class="stats-title">Estadísticas 2022/23</h4>
+                            <div class="stat-item">
+                                <span class="stat-label">Partidos:</span>
+                                <span class="stat-value">54</span>
+                            </div>
+                            <div class="stat-item">
+                                <span class="stat-label">Goles:</span>
+                                <span class="stat-value">38</span>
+                            </div>
+                            <div class="stat-item">
+                                <span class="stat-label">Asistencias:</span>
+                                <span class="stat-value">25</span>
+                            </div>
+                            <div class="trophies-list">
+                                <div class="trophy-item">
+                                    <i class="fas fa-trophy trophy-icon"></i>
+                                    <span>Copa del Mundo 2022</span>
+                                </div>
+                                <div class="trophy-item">
+                                    <i class="fas fa-trophy trophy-icon"></i>
+                                    <span>Ligue 1 2022/23</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Benzema 2022 -->
+                <div class="winner-card">
+                    <div class="card-inner">
+                        <div class="card-front">
+                            <img src="https://images.ecestaticos.com/IhS1Ak4FQ_KshqMYzyjhJMMW1Hc=/118x2:2270x1616/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F89d%2F771%2F30f%2F89d77130f058ad87420a37d5400e0f04.jpg" alt="Karim Benzema 2022" class="winner-image">
+                            <div class="winner-info">
+                                <h3 class="winner-name">Karim Benzema</h3>
+                                <span class="winner-year">2022</span>
+                                <div class="winner-stats">
+                                    <p><i class="fas fa-flag"></i> Francia / Real Madrid</p>
+                                    <p><i class="fas fa-futbol"></i> 1º Balón de Oro</p>
+                                    <p><i class="fas fa-star"></i> Champions League 2021-22</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card-back">
+                            <h4 class="stats-title">Estadísticas 2021/22</h4>
+                            <div class="stat-item">
+                                <span class="stat-label">Partidos:</span>
+                                <span class="stat-value">46</span>
+                            </div>
+                            <div class="stat-item">
+                                <span class="stat-label">Goles:</span>
+                                <span class="stat-value">44</span>
+                            </div>
+                            <div class="stat-item">
+                                <span class="stat-label">Asistencias:</span>
+                                <span class="stat-value">15</span>
+                            </div>
+                            <div class="trophies-list">
+                                <div class="trophy-item">
+                                    <i class="fas fa-trophy trophy-icon"></i>
+                                    <span>Champions League 2021/22</span>
+                                </div>
+                                <div class="trophy-item">
+                                    <i class="fas fa-trophy trophy-icon"></i>
+                                    <span>La Liga 2021/22</span>
+                                </div>
+                                <div class="trophy-item">
+                                    <i class="fas fa-trophy trophy-icon"></i>
+                                    <span>Supercopa de España 2022</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Messi 2021 -->
+                <div class="winner-card">
+                    <div class="card-inner">
+                        <div class="card-front">
+                            <img src="https://cdn.forbes.com.mx/2023/11/Lionel-Messi-balon-de-oro.webp" alt="Lionel Messi 2021" class="winner-image">
+                            <div class="winner-info">
+                                <h3 class="winner-name">Lionel Messi</h3>
+                                <span class="winner-year">2021</span>
+                                <div class="winner-stats">
+                                    <p><i class="fas fa-flag"></i> Argentina / PSG</p>
+                                    <p><i class="fas fa-futbol"></i> 7º Balón de Oro</p>
+                                    <p><i class="fas fa-star"></i> Copa América 2021</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card-back">
+                            <h4 class="stats-title">Estadísticas 2020/21</h4>
+                            <div class="stat-item">
+                                <span class="stat-label">Partidos:</span>
+                                <span class="stat-value">47</span>
+                            </div>
+                            <div class="stat-item">
+                                <span class="stat-label">Goles:</span>
+                                <span class="stat-value">38</span>
+                            </div>
+                            <div class="stat-item">
+                                <span class="stat-label">Asistencias:</span>
+                                <span class="stat-value">18</span>
+                            </div>
+                            <div class="trophies-list">
+                                <div class="trophy-item">
+                                    <i class="fas fa-trophy trophy-icon"></i>
+                                    <span>Copa América 2021</span>
+                                </div>
+                                <div class="trophy-item">
+                                    <i class="fas fa-trophy trophy-icon"></i>
+                                    <span>Copa del Rey 2020/21</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Ronaldo 2014 -->
+                <div class="winner-card">
+                    <div class="card-inner">
+                        <div class="card-front">
+                            <img src="https://library.sportingnews.com/styles/twitter_card_120x120/s3/2021-10/cristiano-ronaldo-ballon-dor-2014_yqhs4p17mlbf1qbvu5th0desx.jpg?itok=4nlixsbR" alt="Cristiano Ronaldo 2014" class="winner-image">
+                            <div class="winner-info">
+                                <h3 class="winner-name">Cristiano Ronaldo</h3>
+                                <span class="winner-year">2014</span>
+                                <div class="winner-stats">
+                                    <p><i class="fas fa-flag"></i> Portugal / Real Madrid</p>
+                                    <p><i class="fas fa-futbol"></i> 3º Balón de Oro</p>
+                                    <p><i class="fas fa-star"></i> Champions League 2013/14</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card-back">
+                            <h4 class="stats-title">Estadísticas 2013/14</h4>
+                            <div class="stat-item">
+                                <span class="stat-label">Partidos:</span>
+                                <span class="stat-value">47</span>
+                            </div>
+                            <div class="stat-item">
+                                <span class="stat-label">Goles:</span>
+                                <span class="stat-value">51</span>
+                            </div>
+                            <div class="stat-item">
+                                <span class="stat-label">Asistencias:</span>
+                                <span class="stat-value">17</span>
+                            </div>
+                            <div class="trophies-list">
+                                <div class="trophy-item">
+                                    <i class="fas fa-trophy trophy-icon"></i>
+                                    <span>Champions League 2013/14</span>
+                                </div>
+                                <div class="trophy-item">
+                                    <i class="fas fa-trophy trophy-icon"></i>
+                                    <span>Copa del Rey 2013/14</span>
+                                </div>
+                                <div class="trophy-item">
+                                    <i class="fas fa-trophy trophy-icon"></i>
+                                    <span>Máximo goleador UCL</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Modrić 2018 -->
+                <div class="winner-card">
+                    <div class="card-inner">
+                        <div class="card-front">
+                            <img src="https://imagenes.elpais.com/resizer/v2/6373CV723IUCHL6K3DG6K5B66A.jpg?auth=0ed03b43e5f0d633328918f9f015ad877d1460fb8a5a86e2f4f5e5d388b1a5dd&width=1960&height=1470&smart=true" alt="Luka Modrić 2018" class="winner-image">
+                            <div class="winner-info">
+                                <h3 class="winner-name">Luka Modrić</h3>
+                                <span class="winner-year">2018</span>
+                                <div class="winner-stats">
+                                    <p><i class="fas fa-flag"></i> Croacia / Real Madrid</p>
+                                    <p><i class="fas fa-futbol"></i> 1º Balón de Oro</p>
+                                    <p><i class="fas fa-star"></i> Subcampeón Mundial</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card-back">
+                            <h4 class="stats-title">Estadísticas 2017/18</h4>
+                            <div class="stat-item">
+                                <span class="stat-label">Partidos:</span>
+                                <span class="stat-value">56</span>
+                            </div>
+                            <div class="stat-item">
+                                <span class="stat-label">Goles:</span>
+                                <span class="stat-value">6</span>
+                            </div>
+                            <div class="stat-item">
+                                <span class="stat-label">Asistencias:</span>
+                                <span class="stat-value">13</span>
+                            </div>
+                            <div class="trophies-list">
+                                <div class="trophy-item">
+                                    <i class="fas fa-trophy trophy-icon"></i>
+                                    <span>Champions League 2017/18</span>
+                                </div>
+                                <div class="trophy-item">
+                                    <i class="fas fa-trophy trophy-icon"></i>
+                                    <span>Subcampeón Mundial 2018</span>
+                                </div>
+                                <div class="trophy-item">
+                                    <i class="fas fa-trophy trophy-icon"></i>
+                                    <span>Mejor Jugador del Mundial</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- (Aquí puedes agregar más ganadores siguiendo el mismo patrón) -->
+                
+            </div>
+        </section>
+    </main>
+    
+    <footer>
+        <div class="container">
+            <p class="footer-text">© 2023 Todos los derechos reservados - Historia del Balón de Oro</p>
+            <div class="social-links">
+                <a href="#"><i class="fab fa-facebook"></i></a>
+                <a href="#"><i class="fab fa-twitter"></i></a>
+                <a href="#"><i class="fab fa-instagram"></i></a>
+                <a href="#"><i class="fab fa-youtube"></i></a>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
